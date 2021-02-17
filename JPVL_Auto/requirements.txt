@@ -1,0 +1,13 @@
+pytesseract==0.3.6
+jamdict==0.1a7
+python_docx==0.8.10
+chirptext==0.1a19
+puchikarui==0.1a3
+SudachiPy==0.5.1
+pykakasi==2.0.4
+lxml==4.5.2
+docx2txt==0.8
+docx==0.2.4
+Image==1.5.33
+Pillow==8.1.0
+PySimpleGUI==4.34.0
