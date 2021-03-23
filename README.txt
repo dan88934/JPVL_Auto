@@ -15,6 +15,8 @@ The program contains a customised version of the Jamdict package (Japanese-to-En
 ============
 Installation:
 ============
+Note: I have been unable to get this working on Windows 10 as an error occurs when installing a dependency of the docx package. 
+      So, please run the program on Mac OS or Linux. Alternatively, you can find the web app version of this app at http://heiki.pythonanywhere.com/ 
 
 1. Install tesseract and ensure that the tesseract executable is in '/usr/local/Cellar/tesseract/'
 
@@ -28,7 +30,6 @@ Installation:
 ============
 Usage:
 ============
-
 
 The program should be ran as a package (or from the __main__.py file). 
 
