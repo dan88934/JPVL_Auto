@@ -22,9 +22,9 @@ Note: I have been unable to get this working on Windows 10 as an error occurs wh
 
 2. Create a virtual environemnt and then install this projects dependencies (in the requirements.txt) in it.
 
-3. Follow the installation guidance for Sudachipy on https://pypi.org/project/SudachiPy/ (the x files can be found in the x folder in this repository)
+3. Follow the installation guidance for Sudachipy on https://pypi.org/project/SudachiPy/ 
 
-4. Follow the install instructions for Jamdict on https://pypi.org/project/jamdict/ (the x files can be found in the x folder in this repository)
+4. Follow the install instructions for Jamdict on https://pypi.org/project/jamdict/
 
 
 ============
